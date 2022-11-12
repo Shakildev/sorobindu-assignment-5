@@ -1,0 +1,107 @@
+table{
+  width: 600px;
+}
+.color{
+  background:#ffff00;
+
+}
+.room{
+  background: #c4e538;
+}
+.classtime{
+  background: #ff6b81;
+}
+.teacher{
+  background: #ffcccc;
+}
+.course1{
+  background: #ee82ee;
+}
+.course2{
+background: #8e4abe;
+}
+.course3{
+  background: #2222fd;
+}
+.course3{
+  background: #008000;
+}
+.course4{
+  background: #ffff00;
+}
+.course5{
+  background: #ffa500;
+}
+.course6{
+  background: #ee82ee;
+}
+.course7{
+ background: #2222fd; 
+}
+.course8{
+  background: #008000;
+}
+.course9{
+  background: #ffff00;
+}
+.course10{
+  background: #ffa500;
+}
+.course11{
+  background:yellow;
+}
+.day1{
+background: #f6b93b;
+}
+.day2{
+background: #f6b93b;
+}
+.day3{
+background: #ff3f34;
+}
+.day4{
+background: #ff3f34;
+}
+.day5{
+background: #0fbcf9;
+}
+.day6{
+background: #0fbcf9;
+}
+.day7{
+background: #78e08f;
+}
+.day8{
+background: #78e08f;
+}
+.day9{
+background: #0fbcf9;
+}
+.day10{
+background: #0fbcf9;
+}
+.day11{
+background: red;
+}
+.demo{
+  background: #d2d2d2;
+  color: #4a2cc5;
+  font-size: 28px;
+  text-align: center;
+}
+.demo2{
+  color: red;
+}
+.footer1{
+  background: #45d76a;
+  width: 98%;
+  margin: auto;
+  height: 90px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.footer1 footer{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  
